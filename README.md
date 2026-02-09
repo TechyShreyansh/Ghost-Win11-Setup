@@ -37,7 +37,7 @@ Other
 | 📚 Entry | ✨ App |
 |---------------------|------------|
 | Colorscheme         | [Catppuccin Mocha](#catppuccinmocha) |
-| Font                | [JetBrainsMono Nerd Font](https://github.com/TechyShreyansh/Fastfetch-Config/blob/main/hypr/fonts/JetBrains/JetBrains%20Mono%20Nerd.ttf) |
+| Font                | [JetBrainsMono Nerd Font](https://github.com/TechyShreyansh/Ghost-Win11-Setup/blob/linux/hypr/fonts/JetBrains/JetBrains%20Mono%20Nerd.ttf) |
 
 
 ---
